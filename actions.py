@@ -33,3 +33,25 @@ class ActionHelloWorld(Action):
         dispatcher.utter_message(response)
 
         return []
+class ActionPackagebond(Action):
+#
+     def name(self) -> Text:
+        return "action_packagebond"
+
+     def run(self,dispatcher, tracker, domain):
+        connection = MongoClient('localhost', 27017)
+        db = connection.placementbot
+        cname=tracker.get_slot('company_name')
+        data = db.companies
+        myquery={"name":cname}
+        inf = data.find(myquery)
+        for item in inf:
+            a=item["name"]
+            b=item["package"]
+            c=item["bond"]
+            print(a)
+        
+        response = """name is {} and package is {} and bond is {}""".format(a,c,b)
+        dispatcher.utter_message(response)
+
+        return []

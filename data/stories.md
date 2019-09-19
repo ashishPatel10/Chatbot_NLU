@@ -27,13 +27,13 @@
   - utter_goodbye
   
 ## package reply
-* package{"company_name":"infosys"}
+* package
   - utter_package
   
 ## bond reply
-* bond{"company_name":"infosys"}
+* bond
 - utter_bond
 
 ## packagebond reply
 * package+bond
-- utter_package_bond
+- action_packagebond
