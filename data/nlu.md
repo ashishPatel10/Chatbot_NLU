@@ -67,6 +67,19 @@
 - package of [bbb](company_name)
 - package of [ccc](company_name)
 - package of [ddd](company_name)
+- package of [wipro](company_name)
+- package of [jeavio](company_name)
+- package of [crest](company_name)
+- package of [aaa](company_name)
+- package of [bbb](company_name)
+- package of [ccc](company_name)
+- package of [ddd](company_name)
+- give me package of [jeavio](company_name)
+- give me package of [crest](company_name)
+- give me package of [wiseDA](company_name)
+- give me package of [tcs](company_name)
+- give me package of [infosys](company_name)
+- give me package of [aaa](company_name)
 - give me package of [jeavio](company_name)
 - give me package of [crest](company_name)
 - give me package of [wiseDA](company_name)
@@ -79,10 +92,22 @@
 - [aaa](company_name) package
 - [bbb](company_name) package
 - [ccc](company_name) package
+- [crest](company_name) package
+- [jeavio](company_name) package
+- [wiseDA](company_name) package
+- [aaa](company_name) package
+- [bbb](company_name) package
+- [ccc](company_name) package
 
 
 
 ## intent:location
+- what is the location of [infosys](company_name)
+- what is the location of [tcs](company_name)
+- what is the location of [wipro](company_name)
+- what is the location of [amazon](company_name)
+- what is the location of [crest](company_name)
+- what is the location of [jeavio](company_name)
 - what is the location of [infosys](company_name)
 - what is the location of [tcs](company_name)
 - what is the location of [wipro](company_name)
@@ -108,11 +133,28 @@
 - [tcs](company_name) location
 - [infosys](company_name) location
 - [wipro](company_name) location
+- [crest](company_name) location
+- [jeavio](company_name) location
+- [wiseDA](company_name) location
+- [tcs](company_name) location
+- [infosys](company_name) location
+- [wipro](company_name) location
+
 
 
 ## intent:bond
 - what is the bond of [infosys](company_name)
 - what is the bond of [tcs](company_name)
+- what is the bond of [wipro](company_name)
+- what is the bond of [amazon](company_name)
+- what is the bond of [wiseda](company_name)
+- what is the bond of [crest](company_name)
+- what is the bond of [jeavio](company_name)
+- what is the bond of [aaa](company_name)
+- bond of [wipro](company_name)
+- bond of [jeavio](company_name)
+- bond of [crest](company_name)
+- bond of [wiseDA](company_name)
 - bond of [wipro](company_name)
 - bond of [jeavio](company_name)
 - bond of [crest](company_name)
@@ -120,12 +162,48 @@
 - give me bond of [jeavio](company_name)
 - give me bond of [crest](company_name)
 - give me bond of [wiseDA](company_name)
+- give me bond of [jeavio](company_name)
+- give me bond of [crest](company_name)
+- give me bond of [wiseDA](company_name)
+- give me bond of [jeavio](company_name)
+- give me bond of [crest](company_name)
+- give me bond of [wiseDA](company_name)
+- give me bond of [jeavio](company_name)
+- give me bond of [crest](company_name)
+- give me bond of [wiseDA](company_name)
+- [crest](company_name) bond
+- [jeavio](company_name) bond
+- [wiseDA](company_name) bond
+- [crest](company_name) bond
+- [jeavio](company_name) bond
+- [wiseDA](company_name) bond
+- [crest](company_name) bond
+- [jeavio](company_name) bond
+- [wiseDA](company_name) bond
 - [crest](company_name) bond
 - [jeavio](company_name) bond
 - [wiseDA](company_name) bond
 - give me bond of [aaa](company_name)
 - give me bond of [bbb](company_name)
 - give me bond of [ccc](company_name)
+- give me bond of [aaa](company_name)
+- give me bond of [bbb](company_name)
+- give me bond of [ccc](company_name)
+- give me bond of [aaa](company_name)
+- give me bond of [bbb](company_name)
+- give me bond of [ccc](company_name)
+- give me bond of [aaa](company_name)
+- give me bond of [bbb](company_name)
+- give me bond of [ccc](company_name)
+- [abc](company_name) bond
+- [bcd](company_name) bond
+- [xxx](company_name) bond
+- [abc](company_name) bond
+- [bcd](company_name) bond
+- [xxx](company_name) bond
+- [abc](company_name) bond
+- [bcd](company_name) bond
+- [xxx](company_name) bond
 - [abc](company_name) bond
 - [bcd](company_name) bond
 - [xxx](company_name) bond
@@ -134,7 +212,17 @@
 ## intent:package+bond
 - what is package and bond of [infosys](company_name)
 - what is package and bond of [tcs](company_name)
+- what is package and bond of [wipro](company_name)
 - what is package and bond of [crest](company_name)
+- what is package and bond of [amazon](company_name)
+- what is package and bond of [wiseDA](company_name)
+- what is package and bond of [jeavio](company_name)
+- what is package and bond of [aaa](company_name)
+- what is package and bond of [bbb](company_name)
+- what is bond and package of [tcs](company_name)
+- what is bond and package of [jeavio](company_name)
+- what is bond and package of [hcl](company_name)
+- what is bond and package of [infosys](company_name)
 - what is bond and package of [tcs](company_name)
 - what is bond and package of [jeavio](company_name)
 - what is bond and package of [hcl](company_name)
@@ -144,6 +232,17 @@
 - bond and package of [crest](company_name)
 - bond and package of [jeavio](company_name)
 - package and bond of [wipro](company_name)
+- package and bond of [wipro](company_name)
+- package and bond of [wipro](company_name)
+- package and bond of [wipro](company_name)
+- package and bond of [wipro](company_name)
+- package and bond of [wipro](company_name)
+- package and bond of [wipro](company_name)
+- package and bond of [wipro](company_name)
+- [tcs](company_name) bond and package
+- [infosys](company_name) bond and package
+- [jeavio](company_name) bond and package
+- [crest](company_name) bond and package
 - [tcs](company_name) bond and package
 - [infosys](company_name) bond and package
 - [jeavio](company_name) bond and package
@@ -154,6 +253,16 @@
 - what is package and location of [infosys](company_name)
 - what is package and location of [tcs](company_name)
 - what is package and location of [crest](company_name)
+- what is package and location of [infosys](company_name)
+- what is package and location of [tcs](company_name)
+- what is package and location of [crest](company_name)
+- what is package and location of [infosys](company_name)
+- what is package and location of [tcs](company_name)
+- what is package and location of [crest](company_name)
+- what is location and package of [tcs](company_name)
+- what is location and package of [jeavio](company_name)
+- what is location and package of [hcl](company_name)
+- what is location and package of [infosys](company_name)
 - what is location and package of [tcs](company_name)
 - what is location and package of [jeavio](company_name)
 - what is location and package of [hcl](company_name)
@@ -163,16 +272,35 @@
 - location and package of [crest](company_name)
 - location and package of [jeavio](company_name)
 - package and location of [wipro](company_name)
+- location and package of [tcs](company_name)
+- location and package of [infosys](company_name)
+- location and package of [crest](company_name)
+- location and package of [jeavio](company_name)
+- package and location of [wipro](company_name)
+- [tcs](company_name) location and package
+- [infosys](company_name) location and package
+- [jeavio](company_name) location and package
+- [crest](company_name) location and package
 - [tcs](company_name) location and package
 - [infosys](company_name) location and package
 - [jeavio](company_name) location and package
 - [crest](company_name) location and package
 
 
-## intent:bond+location
+## intent:location+bond
 - what is bond and location of [infosys](company_name)
 - what is bond and location of [tcs](company_name)
 - what is bond and location of [crest](company_name)
+- what is bond and location of [jeavio](company_name)
+- what is bond and location of [wipro](company_name)
+- what is bond and location of [aaa](company_name)
+- what is bond and location of [bbb](company_name)
+- what is bond and location of [tcbs](company_name)
+- what is bond and location of [bbb](company_name)
+- what is location and bond of [tcs](company_name)
+- what is location and bond of [jeavio](company_name)
+- what is location and bond of [hcl](company_name)
+- what is location and bond of [infosys](company_name)
 - what is location and bond of [tcs](company_name)
 - what is location and bond of [jeavio](company_name)
 - what is location and bond of [hcl](company_name)
@@ -181,7 +309,20 @@
 - location and bond of [infosys](company_name)
 - location and bond of [crest](company_name)
 - location and bond of [jeavio](company_name)
+- location and bond of [tcs](company_name)
+- location and bond of [infosys](company_name)
+- location and bond of [crest](company_name)
+- location and bond of [jeavio](company_name)
 - bond and location of [wipro](company_name)
+- bond and location of [wipro](company_name)
+- bond and location of [wipro](company_name)
+- bond and location of [wipro](company_name)
+- bond and location of [wipro](company_name)
+- bond and location of [wipro](company_name)
+- [tcs](company_name) location and bond
+- [infosys](company_name) location and bond
+- [jeavio](company_name) location and bond
+- [crest](company_name) location and bond
 - [tcs](company_name) location and bond
 - [infosys](company_name) location and bond
 - [jeavio](company_name) location and bond
@@ -191,9 +332,149 @@
 - what is bond package and location of [infosys](company_name)
 - what is bond package and location of [crest](company_name)
 - what is bond package and location of [jeavio](company_name)
+- what is bond package and location of [infosys](company_name)
+- what is bond package and location of [crest](company_name)
+- what is bond package and location of [jeavio](company_name)
+- what is bond package and location of [infosys](company_name)
+- what is bond package and location of [crest](company_name)
+- what is bond package and location of [jeavio](company_name)
 - bond package location [tcs](company_name)
 - bond package location [amazon](company_name)
 - bond package location [hcl](company_name)
+- bond package location [tcs](company_name)
+- bond package location [amazon](company_name)
+- bond package location [hcl](company_name)
+
+## intent:response
+- thanks
+- thank you
+- thankyou
+- well its great
+- ok
+- ok thanks
+- kk thanks
+- ok thankyou
+- well thanks
+
+
+## intent:process
+- what is the interview process of [infosys](company_name)
+- what is the interview process of [wipro](company_name)
+- what is the interview process of [tcs](company_name)
+- what is the interview process of [amazon](company_name)
+- what is the interview process of [motill](company_name)
+- what is the interview process of [capegemini](company_name)
+- what is the interview process of [jeavio](company_name)
+- what is the interview process of [crest](company_name)
+- what is the interview process of [gear coop](company_name)
+- what is the interview process of [aaa](company_name)
+- what is the interview process of [bbb](company_name)
+- interview process of [infosys](company_name)
+- interview process of [tcs](company_name)
+- interview process of [wipro](company_name)
+- interview process of [amazon](company_name)
+- interview process of [motill](company_name)
+- interview process of [capegemini](company_name)
+- interview process of [jeavio](company_name)
+- interview process of [crest](company_name)
+- interview process of [gear coop](company_name)
+- interview process of [infosys](company_name)
+- interview process of [aaa](company_name)
+- rounds of [tcs](company_name)
+- rounds of [crest](company_name)
+- rounds of [jeavio](company_name)
+- rounds of [wipro](company_name)
+- rounds of [capegemini](company_name)
+- rounds of [motilal](company_name)
+- rounds of [oswal](company_name)
+- rounds of [urvam](company_name)
+- rounds of [amazon](company_name)
+- rounds of [aaa](company_name)
+- rounds of [wipro](company_name)
+- [tcs](company_name) interview process
+- [crest](company_name) interview process
+- [jeavio](company_name) interview process
+- [wipro](company_name) interview process
+- [amazon](company_name) interview process
+- [motilal](company_name) interview process
+- [capegemini](company_name) interview process
+- [infosys](company_name) interview process
+- [urvam](company_name) interview process
+- [aaa](company_name) interview process
+- [oswal](company_name) interview process
+- interview of [tcs](company_name)
+- interview of [crest](company_name)
+- interview of [jeavio](company_name)
+- interview of [wipro](company_name)
+- interview of [capegemini](company_name)
+- interview of [motilal](company_name)
+- interview of [oswal](company_name)
+- interview of [urvam](company_name)
+- interview of [amazon](company_name)
+- interview of [aaa](company_name)
+- interview of [wipro](company_name)
+- interview of [tcs](company_name)
+- interview of [crest](company_name)
+- online test of [jeavio](company_name)
+- online test of [wipro](company_name)
+- online test of [capegemini](company_name)
+- online test of [motilal](company_name)
+- online test of [oswal](company_name)
+- online test of [urvam](company_name)
+- online test of [amazon](company_name)
+- online test of [aaa](company_name)
+- online test of [wipro](company_name)
+
+## intent:roundwise
+- round [1](round_number) of [infosys](company_name)
+- round [2](round_number) of [tcs](company_name)
+- round [3](round_number) of [jeavio](company_name)
+- round [4](round_number) of [crest](company_name)
+- round [1](round_number) of [amazon](company_name)
+- round [3](round_number) of [wipro](company_name)
+- round [4](round_number) of [capegemini](company_name)
+- round [2](round_number) of [infosys](company_name)
+- round [3](round_number) of [tcs](company_name)
+- round [4](round_number) of [jeavio](company_name)
+- round [1](round_number) of [wipro](company_name)
+- round [3](round_number) of [amazon](company_name)
+- round [4](round_number) of [jeavio](company_name)
+- round [2](round_number) of [crest](company_name)
+- round [2](round_number) of [infosys](company_name)
+- [infosys](company_name) round [1](round_number)
+- [tcs](company_name) round [2](round_number)
+- [jeavio](company_name) round [13](round_number)
+- [crest](company_name) round [4](round_number)
+- [amazon](company_name) round [2](round_number)
+- [wipro](company_name) round [3](round_number)
+- [capegemini](company_name) round [1](round_number)
+- [infosys](company_name) round [4](round_number)
+- [capegemini](company_name) round [3](round_number)
+- [infosys](company_name) round [1](round_number)
+- [capegemini](company_name) round [2](round_number)
+- [wipro](company_name) round [3](round_number)
+- [amazon](company_name) round [3](round_number)
+- [crest](company_name) round [1](round_number)
+- [jeavio](company_name) round [4](round_number)
+- [tcs](company_name) round [1](round_number)
+- [infosys](company_name) round [2](round_number)
+- what is  round [1](round_number) [infosys](company_name)
+- what is  round [2](round_number) [tcs](company_name)
+- what is  round [3](round_number) [crest](company_name)
+- what is  round [1](round_number) [amazon](company_name)
+- what is  round [4](round_number) [wipro](company_name)
+- what is  round [4](round_number) [infosys](company_name)
+- what is  round [2](round_number) [capegemini](company_name)
+- what is  round [3](round_number) [infosys](company_name)
+- what is  round [1](round_number) [capegemini](company_name)
+- what is  round [2](round_number) [infosys](company_name)
+- what is  round [1](round_number) [wipro](company_name)
+- what is  round [1](round_number) [amazon](company_name)
+- what is  round [2](round_number) [crest](company_name)
+- what is  round [3](round_number) [infosys](company_name)
+- what is  round [4](round_number) [jeavio](company_name)
+- what is  round [1](round_number) [tcs](company_name)
+
 
 ## lookup:compay_name
 - crest
@@ -217,3 +498,5 @@
 - juspay
 - hcl
 
+## synonym:infosys
+- infy

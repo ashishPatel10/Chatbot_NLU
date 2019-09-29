@@ -1,8 +1,10 @@
 ## happy path
 * greet
-  - action_hello_world
-* mood_great
-  - utter_happy
+  - utter_greet
+  
+## response reply
+* response
+  - utter_thanks
 
 ## sad path 1
 * greet
@@ -28,12 +30,37 @@
   
 ## package reply
 * package
-  - utter_package
+  - action_package
   
 ## bond reply
 * bond
-- utter_bond
+- action_bond
 
 ## packagebond reply
 * package+bond
 - action_packagebond
+
+## location reply
+* location
+- action_location
+
+## locationbond reply
+* location+bond
+- action_locationbond
+
+## package location
+* package+location
+- action_packagelocation
+
+## bondlocationpackage reply
+* bond+location+package
+- action_bondlocationpackage
+
+## process reply
+* process
+- action_process
+
+## roundwise reply
+* roundwise
+- action_roundnumber
+

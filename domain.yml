@@ -1,7 +1,10 @@
 entities:
  - company_name
+ - round_number
 slots:
     company_name:
+        type: text
+    round_number:
         type: text
 
 
@@ -17,7 +20,12 @@ intents:
   - location
   - package+bond
   - package+location
-  - bond+location
+  - location+bond
+  - bond+location+package
+  - response
+  - process
+  - roundwise
+
 
 actions:
 - utter_greet
@@ -30,11 +38,21 @@ actions:
 - action_hello_world
 - utter_package_bond
 - action_packagebond
-
+- utter_location
+- action_locationbond
+- action_packagelocation
+- action_bondlocationpackage
+- action_bond
+- action_location
+- action_package
+- utter_thanks
+- utter_process
+- action_process
+- action_roundnumber
 
 templates:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "Hey! How how may i help you?"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
@@ -58,3 +76,12 @@ templates:
   
   utter_package_bond:
   - text: "{company_name} bond and package is usually 1 year and 3.5lpa"
+  
+  utter_location:
+  - text: "hey {company_name}'s location is ahd or baroda"
+  
+  utter_thanks:
+  - text: "your welcome!!!!"
+  
+  utter_process:
+  - text: "process consist of online test the personal interview and then hr"
